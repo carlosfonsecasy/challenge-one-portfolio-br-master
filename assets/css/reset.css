@@ -1,12 +1,22 @@
-body {
-    font-family: Roboto, sans-serif;
+:root{
+    /*Insira a variavel das outras cores inspecionando o modelo do figma*/
+    /*Se esforce para trabalhar com variáveis, é uma dica profissional valiosa*/
+   --cor-de-fundo: #F5F5F5;
+   --cor-de-link: #000;
 }
 
-h1, h2, h3, h4, h5, h6 {
+body {
+    box-sizing: border-box;
+    background-color: var(--cor-de-fundo) ;
+    font-family: 'Raleway';
     margin: 0;
     padding: 0;
+    line-height: 1;
 }
-
-ul, li {
-    padding: 0;
+ol, ul,li {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: var(--cor-de-link);
 }
