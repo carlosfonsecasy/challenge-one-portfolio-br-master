@@ -1,0 +1,10 @@
+.menu_title{
+   display: flex;
+   align-content: first baseline;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1 rem;
+    line-height: 1rem;
+    margin-left: 1rem;
+}

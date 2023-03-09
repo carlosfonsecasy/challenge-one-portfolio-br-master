@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Apeperia/css"
+		},
+		{
+			"path": "../Apeperia/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
