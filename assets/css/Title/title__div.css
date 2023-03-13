@@ -1,0 +1,11 @@
+.title {
+    display: flex;
+    background-color: blue;
+
+}
+
+.title__profile{
+    display: flex;
+    align-items: end;
+    
+}
