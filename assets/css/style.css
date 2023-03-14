@@ -10,9 +10,10 @@ coloque nas sessões indicadas*/
 }
 
 body {
+    font-family: Raleway,sans-serif;
+    font-size: 16px;
     box-sizing: border-box;
     background-color: var(--cor-de-fundo) ;
-    font-family: 'Raleway';
     margin: 0;
     padding: 0;
     line-height: 1;

@@ -1,11 +1,12 @@
-.title {
+.title__div{
     display: flex;
-    background-color: blue;
-
+    flex-direction:row ;
 }
 
 .title__profile{
-    display: flex;
-    align-items: end;
-    
+    width: 40%;
+}
+
+.title__sobre{
+    width: 60%;
 }
